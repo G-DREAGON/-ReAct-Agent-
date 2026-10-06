@@ -19,7 +19,6 @@ C:\Users\admin\Documents\Codex\2026-10-06\ban\react-agent-from-scratch\
 
 
 安装依赖
-cd C:\Users\admin\Documents\Codex\2026-10-06\ban\react-agent-from-scratch
 pip install openai tiktoken python-dotenv
 
 
